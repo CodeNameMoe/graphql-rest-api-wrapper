@@ -1,1 +1,1 @@
-# graphql-rest-api-wrapper
+# GraphQL API Wrapper for TVMaze REST API
